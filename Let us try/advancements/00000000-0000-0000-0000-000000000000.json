@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-10-19 20:29:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-10-03 09:31:12 +0300"
@@ -128,6 +134,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2018-10-08 18:26:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-10-19 21:16:35 +0300"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-10-19 21:16:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2018-10-09 14:11:33 +0300"
@@ -258,6 +276,11 @@
       "cooked_beef": "2018-10-03 11:41:49 +0300",
       "apple": "2018-10-10 08:55:01 +0300",
       "mutton": "2018-10-05 09:37:56 +0300",
+      "bread": "2018-10-19 20:31:46 +0300",
+      "rotten_flesh": "2018-10-19 20:09:42 +0300",
+      "melon_slice": "2018-10-22 10:19:45 +0300",
+      "beetroot": "2018-10-24 08:47:20 +0300",
+      "cooked_chicken": "2018-10-19 20:48:22 +0300",
       "mushroom_stew": "2018-10-10 09:21:22 +0300"
     },
     "done": false
@@ -343,6 +366,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-10-05 09:43:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-10-19 20:29:06 +0300"
     },
     "done": true
   },
@@ -469,6 +498,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-10-03 12:01:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-10-19 21:16:21 +0300"
     },
     "done": true
   },
@@ -651,7 +686,8 @@
       "minecraft:skeleton": "2018-10-09 11:50:24 +0300",
       "minecraft:spider": "2018-10-05 11:49:51 +0300",
       "minecraft:zombie": "2018-10-04 08:21:24 +0300",
-      "minecraft:creeper": "2018-10-05 12:24:27 +0300"
+      "minecraft:creeper": "2018-10-05 12:24:27 +0300",
+      "minecraft:zombie_villager": "2018-10-19 19:55:00 +0300"
     },
     "done": false
   },
@@ -673,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2018-10-19 20:17:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2018-10-03 09:31:12 +0300"
@@ -682,6 +724,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-10-03 09:38:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-10-19 21:16:35 +0300"
     },
     "done": true
   },
@@ -1186,8 +1234,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-09-28 10:24:26 +0300",
       "minecraft:mountains": "2018-10-03 09:31:53 +0300",
+      "minecraft:forest": "2018-09-28 10:24:26 +0300",
       "minecraft:taiga": "2018-10-05 09:31:24 +0300",
       "minecraft:taiga_hills": "2018-10-05 09:33:43 +0300",
       "minecraft:birch_forest": "2018-10-03 11:38:57 +0300",
@@ -1229,6 +1277,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-10-03 09:28:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-10-22 09:20:17 +0300"
     },
     "done": true
   },
@@ -1397,6 +1451,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-10-03 09:28:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-10-19 21:16:35 +0300"
     },
     "done": true
   },
